@@ -1,4 +1,3 @@
-# Hhbuilder
 
 ## Comments
 
@@ -8,6 +7,7 @@ The code can be run very simply dropping the html file into any browser. Using E
 
 The problem below has been solved and I have followed the assignments instructions. Crossed all the t's and dotted all the i's. Thanks for your consideration and I look forward to hearing from you soon. 
 
+# Hhbuilder
 
 Your application needs a way to capture information about a household applying
 for health insurance coverage. Develop a UI for building a household up from
