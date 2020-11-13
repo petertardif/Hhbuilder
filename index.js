@@ -11,6 +11,7 @@
 
   // Add people to a growing household list
   function addFamilyMember(age, relationshipText, smoker) {
+    // used a ternary to account for the boolean nature of checked 
     smoker ? smoker = "(smoker)" : smoker = ""  
     var familyList = document.querySelector('ol[class="household"]');
     // creating the new li for each family member 

@@ -1,5 +1,14 @@
 # Hhbuilder
 
+## Comments
+
+The code can be run very simply dropping the html file into any browser. Using ES5 exclusively took me back to when I first learned JavaScript and this was a fun exercise. Is the purpose to see how engineers will work in legacy code bases or to truly evaluate each candidate's handle of vanilla JavaScript? I am curious and would love to find out if I move on in this interview process. 
+
+## Problem
+
+The problem below has been solved and I have followed the assignments instructions. Crossed all the t's and dotted all the i's. Thanks for your consideration and I look forward to hearing from you soon. 
+
+
 Your application needs a way to capture information about a household applying
 for health insurance coverage. Develop a UI for building a household up from
 individual people.
